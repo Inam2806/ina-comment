@@ -1,0 +1,12 @@
+{
+    "name": "ina-comment",
+    "version": "1.0.0",
+    "main": "CommentSection.js",
+    "dependencies": {
+        "font-awesome": "^4.7.0",
+        "react": "^17.0.2"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.23.3"
+    }
+}
